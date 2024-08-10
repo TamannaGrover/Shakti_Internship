@@ -3,6 +3,9 @@
 
 <br>🚀**This repository includes all the work I did towards Shakti Microprocessor in R.I.S.E Lab in IIT Madras under Dr. V. Kamakoti and Kotteeswaran Ekambaram sir during May-August 2024.**<br>
 <br>🚀Over the time, adapting from successful compilation of ***sifiveu*** (RiscV board), I will reciprocate similar architecture for Shakti.<br>
+
+<br>The current files contain changes in shakti as a separate folder. Later, I will make changes in main makefile to configure shakti as new target board. Wokring on in-code changes right now.<br>
+
 <br>Steps to be followed:<br>
 <br>1. Study the documentation for openWRT and analyze the requirements for a new target. <br>
 <br>2. Observe pre-existing targets and their configuration.<br>
